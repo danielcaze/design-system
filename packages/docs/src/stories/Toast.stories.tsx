@@ -34,8 +34,8 @@ export default {
   title: 'Pop ups/Toast',
   component: DemoToast,
   args: {
-    title: 'Agendamento realizado',
-    description: 'Quarta-feira, 23 de outubro as 16h',
+    title: 'Schedule done',
+    description: 'Wednesday, 16:00 October 23rd',
   },
 } as Meta<ToastProps>
 
