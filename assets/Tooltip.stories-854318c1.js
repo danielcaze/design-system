@@ -1,0 +1,2 @@
+import{e as o,a as t}from"./index-6c51b4f1.js";import{j as r}from"./jsx-runtime-c2142c84.js";import"./index-42521bac.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-4bd83974.js";const p={title:"Pop ups/Tooltip",component:o,args:{children:r(t,{children:"Hover me"}),content:"October 21st - Unavaiable"},argTypes:{children:{control:{type:null}}}},l={args:{}},m=["Primary"];export{l as Primary,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Tooltip.stories-854318c1.js.map
